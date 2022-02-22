@@ -29,4 +29,5 @@ file_name = "smiles"+curr_date + ".png"
 driver.find_element_by_tag_name('body').screenshot(file_name)
 
 driver.quit()
+#
 
